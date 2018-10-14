@@ -12,10 +12,10 @@ Trobareu el codi d'aquest exercici al repositori. És un projecte Maven que pot
 
 ## Entrega
 
-Aquesta pràctica s'entregarà per Github. Heu de seguir aquestes instruccions **AL PEU
+Aquesta pràctica s'entregarà per el sistema [github classroom](https://classroom.github.com/). Heu de seguir aquestes instruccions **AL PEU
 DE LA LLETRA** per què la pràctica es pugui tractar automatitzadament:
 
-1. Fer un _fork_ d'aquest repositori al vostre compte personal de Github
+1. Clonar aquest repositori al vostre compte personal de Github.
 2. Crear els tests unitaris al package **org.udg.caes.banking**, carpeta *src/test/java* del repositori
 3. El codi que hi ha a *src/main/java* **NO ES POT TOCAR NI UNA SOLA LÍNIA**. S'ha de mantindre exactament igual que 
 l'original. Només podeu afegir codi als tests, a *src/test/java*
@@ -24,7 +24,7 @@ d'un sol mètode. Per tant, us sortiran com a mínim tants testcases com mèt
   *transfer* de la classe *AccountService* s'ha de testejar, haureu de crear la classe *testAccountService* que 
   contindrà només els tests d'aquell mètode.
 5. Les classes del package **FAKE** no s'han de testejar.Només s'ha nafegit per poder fer un *Main* que funcioni. 
-6. Per entregar la pràctica enviar un *pull request* cap al repositori original
+6. No cal fer res per entregar la pràctica, només fer els commit amb les tasques assignades al vostre repositori (no cal fer Pull Request).
 
 ## Sobre el software
 
